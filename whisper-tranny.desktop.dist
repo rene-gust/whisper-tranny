@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Whisper.Tranny
+Exec=[absolute-path-to-whisper-tranny]/start.sh
+Icon=[absolute-path-to-whisper-tranny]/logo.jpeg
+Terminal=false
+Categories=Utility;
