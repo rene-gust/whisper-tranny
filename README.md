@@ -6,6 +6,9 @@ This Python application is designed to run on Windows, macOS, and Linux.
 At the time of writing, it has only been tested on Linux. The other operating systems are supported as far as currently known, but feedback from Windows and macOS users is very welcome.
 
 # Setup
+## Clone the repo
+git clone https://github.com/rene-gust/whisper-tranny.git
+
 ## Create a virtual environment (recommended)
 python -m venv venv
 
